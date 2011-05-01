@@ -12,7 +12,12 @@ namespace DesignPatterns
         {
             Duck mallard = new MallardDuck();
             mallard.performQuack();
-            mallard.performFly();            
+            mallard.performFly();
+
+            Duck model = new ModelDuck();
+            model.performFly();
+            model.setFlyBehavior(new FlyRocketPowered());
+            model.performFly();
 
             Console.Read();
         }
