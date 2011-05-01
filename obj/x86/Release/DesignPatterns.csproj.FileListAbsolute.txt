@@ -1,0 +1,7 @@
+C:\Users\Ken\DesignPatterns\bin\Release\DesignPatterns.exe
+C:\Users\Ken\DesignPatterns\bin\Release\DesignPatterns.pdb
+C:\Users\Ken\DesignPatterns\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ken\DesignPatterns\obj\x86\Release\DesignPatterns.exe
+C:\Users\Ken\DesignPatterns\obj\x86\Release\DesignPatterns.pdb
+C:\Users\Ken\DesignPatterns\bin\Release\DesignPatternsShared.dll
+C:\Users\Ken\DesignPatterns\bin\Release\DesignPatternsShared.pdb
