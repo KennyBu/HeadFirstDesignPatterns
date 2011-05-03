@@ -1,0 +1,5 @@
+C:\Users\Ken\DesignPatterns\HeadDesignPatterns\bin\Debug\HeadDesignPatterns.dll
+C:\Users\Ken\DesignPatterns\HeadDesignPatterns\bin\Debug\HeadDesignPatterns.pdb
+C:\Users\Ken\DesignPatterns\HeadDesignPatterns\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ken\DesignPatterns\HeadDesignPatterns\obj\Debug\HeadDesignPatterns.dll
+C:\Users\Ken\DesignPatterns\HeadDesignPatterns\obj\Debug\HeadDesignPatterns.pdb

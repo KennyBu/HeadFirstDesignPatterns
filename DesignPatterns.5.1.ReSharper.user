@@ -1,0 +1,52 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:Duck.cs" caret="45" fromTop="3" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:FlyNoWaycs.cs" caret="38" fromTop="3" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:FlyRocketPowered.cs" caret="38" fromTop="3" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:FlyWithWings.cs" caret="42" fromTop="3" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:IFlyBehavior.cs" caret="106" fromTop="4" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:IQuackBehavior.cs" caret="29" fromTop="0" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:MallardDuck.cs" caret="40" fromTop="3" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:ModelDuck.cs" caret="44" fromTop="3" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:MuteQuack.cs" caret="41" fromTop="2" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:Quack.cs" caret="37" fromTop="2" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:Squeak.cs" caret="153" fromTop="7" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:ChapterOneTests.cs" caret="114" fromTop="4" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:ChapterOneTests.cs" caret="114" fromTop="5" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:Duck.cs" caret="121" fromTop="2" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:Duck.cs" caret="45" fromTop="3" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:FlyNoWaycs.cs" caret="38" fromTop="3" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:FlyRocketPowered.cs" caret="38" fromTop="3" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:FlyWithWings.cs" caret="42" fromTop="3" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:IFlyBehavior.cs" caret="26" fromTop="0" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:IQuackBehavior.cs" caret="143" fromTop="0" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:IQuackBehavior.cs" caret="29" fromTop="0" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:MallardDuck.cs" caret="40" fromTop="3" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:ModelDuck.cs" caret="44" fromTop="3" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:MuteQuack.cs" caret="41" fromTop="2" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:Quack.cs" caret="37" fromTop="2" />
+      <File id="CC7D54D7-0764-485D-8668-7486E6A0FB94/d:ChapterOne/f:Squeak.cs" caret="81" fromTop="2" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
