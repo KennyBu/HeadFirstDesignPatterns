@@ -4,7 +4,7 @@ namespace HeadFirstDesignPatterns.ChapterOne
 {
     public class FlyWithWings : IFlyBehavior
     {
-        public void fly()
+        public void Fly()
         {
             Console.Out.WriteLine("I'm flying!");
         }

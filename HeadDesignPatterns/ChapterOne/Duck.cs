@@ -7,24 +7,24 @@ namespace HeadFirstDesignPatterns.ChapterOne
         public IQuackBehavior QuackBehavior;
         public IFlyBehavior FlyBehavior;        
 
-        public void performQuack()
+        public void PerformQuack()
         {
-            QuackBehavior.quack();
+            QuackBehavior.PerformQuack();
         }
 
-        public void setFlyBehavior(IFlyBehavior flyBehavior)
+        public void SetFlyBehavior(IFlyBehavior flyBehavior)
         {
             FlyBehavior = flyBehavior;
         }
 
-        public void setQuackBehavior(IQuackBehavior quackBehavior)
+        public void SetQuackBehavior(IQuackBehavior quackBehavior)
         {
             QuackBehavior = quackBehavior;
         }
 
-        public void performFly()
+        public void PerformFly()
         {
-            FlyBehavior.fly();
+            FlyBehavior.Fly();
         }
 
         public void Swim()

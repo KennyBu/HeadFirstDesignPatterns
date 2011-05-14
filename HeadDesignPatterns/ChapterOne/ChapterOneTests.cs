@@ -9,13 +9,13 @@ namespace HeadFirstDesignPatterns.ChapterOne
         public void TestMethod1()
         {
             Duck mallard = new MallardDuck();
-            mallard.performQuack();
-            mallard.performFly();
+            mallard.PerformQuack();
+            mallard.PerformFly();
 
             Duck model = new ModelDuck();
-            model.performFly();
-            model.setFlyBehavior(new FlyRocketPowered());
-            model.performFly();
+            model.PerformFly();
+            model.SetFlyBehavior(new FlyRocketPowered());
+            model.PerformFly();
         }
     }
 }

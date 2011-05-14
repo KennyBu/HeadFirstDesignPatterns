@@ -4,7 +4,7 @@ namespace HeadFirstDesignPatterns.ChapterOne
 {
     public class Squeak : IQuackBehavior
     {
-        public void quack()
+        public void PerformQuack()
         {
             Console.Out.WriteLine("Squeak!");
         }

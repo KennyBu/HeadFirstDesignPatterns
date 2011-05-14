@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="a34652be-8671-48d2-9d5c-5b3322ba6ed9" name="Ken@KENDELLDESKTOP 2011-05-14 16:21:03" runUser="KenDellDesktop\Ken" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="83591808-cefc-43db-affa-19f114605ccd">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Ken_KENDELLDESKTOP 2011-05-14 16_21_03" />
+  </TestSettings>
+  <Times creation="2011-05-14T16:21:03.3739531-04:00" queuing="2011-05-14T16:21:04.0009890-04:00" start="2011-05-14T16:21:04.2180014-04:00" finish="2011-05-14T16:21:04.4200129-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\ken\designpatterns\headdesignpatterns\bin\debug\headfirstdesignpatterns.dll" id="128e1158-f02c-0a92-5b1d-013e042c4409">
+      <Execution timeOut="1800000" id="62080f63-a5b9-4c2d-b084-cdc5b3eeada2" />
+      <TestMethod codeBase="C:/Users/Ken/DesignPatterns/HeadDesignPatterns/bin/Debug/HeadFirstDesignPatterns.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HeadFirstDesignPatterns.ChapterOne.ChapterOneTests, HeadFirstDesignPatterns, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="128e1158-f02c-0a92-5b1d-013e042c4409" executionId="62080f63-a5b9-4c2d-b084-cdc5b3eeada2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="62080f63-a5b9-4c2d-b084-cdc5b3eeada2" testId="128e1158-f02c-0a92-5b1d-013e042c4409" testName="TestMethod1" computerName="KENDELLDESKTOP" duration="00:00:00.0115278" startTime="2011-05-14T16:21:04.2950058-04:00" endTime="2011-05-14T16:21:04.3610096-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="62080f63-a5b9-4c2d-b084-cdc5b3eeada2">
+      <Output>
+        <StdOut>QUACK!
+I'm flying!
+I can't fly!
+I'm flying with a rocket!</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
