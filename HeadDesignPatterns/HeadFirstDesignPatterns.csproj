@@ -53,6 +53,15 @@
     <Compile Include="ChapterOne\MuteQuack.cs" />
     <Compile Include="ChapterOne\Quack.cs" />
     <Compile Include="ChapterOne\Squeak.cs" />
+    <Compile Include="Characters\AxeBehavior.cs" />
+    <Compile Include="Characters\BowAndArrowBehavior.cs" />
+    <Compile Include="Characters\Character.cs" />
+    <Compile Include="Characters\CharacterTest.cs" />
+    <Compile Include="Characters\IWeaponBehavior.cs" />
+    <Compile Include="Characters\King.cs" />
+    <Compile Include="Characters\KnifeBehavior.cs" />
+    <Compile Include="Characters\Knight.cs" />
+    <Compile Include="Characters\SwordBehavior.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

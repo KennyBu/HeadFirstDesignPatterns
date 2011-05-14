@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="411cb923-572e-492e-bbb8-f6bd835fc41b" name="Ken@KENDELLDESKTOP 2011-05-14 16:54:04" runUser="KenDellDesktop\Ken" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="e6f2cf2f-1808-4aa5-8dfa-8788912b0690">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Ken_KENDELLDESKTOP 2011-05-14 16_54_04" />
+  </TestSettings>
+  <Times creation="2011-05-14T16:54:04.1722483-04:00" queuing="2011-05-14T16:54:04.5422694-04:00" start="2011-05-14T16:54:04.6892779-04:00" finish="2011-05-14T16:54:04.8432867-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\ken\designpatterns\headdesignpatterns\bin\debug\headfirstdesignpatterns.dll" id="1d92a043-9ff5-2909-96e9-ea50e0dac5a4">
+      <Execution timeOut="1800000" id="573b737a-6843-4f9a-ba52-4870e6210fe2" />
+      <TestMethod codeBase="C:/Users/Ken/DesignPatterns/HeadDesignPatterns/bin/Debug/HeadFirstDesignPatterns.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="HeadFirstDesignPatterns.Characters.CharacterTest, HeadFirstDesignPatterns, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1d92a043-9ff5-2909-96e9-ea50e0dac5a4" executionId="573b737a-6843-4f9a-ba52-4870e6210fe2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="573b737a-6843-4f9a-ba52-4870e6210fe2" testId="1d92a043-9ff5-2909-96e9-ea50e0dac5a4" testName="TestMethod1" computerName="KENDELLDESKTOP" duration="00:00:00.0122857" startTime="2011-05-14T16:54:04.7262800-04:00" endTime="2011-05-14T16:54:04.7852833-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="573b737a-6843-4f9a-ba52-4870e6210fe2">
+      <Output>
+        <StdOut>King Fighting...
+Using a knife 1D4 damage!
+Knight Fighting...
+Using a long sword 1D8 damage!
+Knight Fighting...
+Using an axe 1D6 damage!</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
